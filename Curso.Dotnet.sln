@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caracteres&Textos", "03-Car
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexadoresDeClasses", "42-IndexadoresDeClasses\IndexadoresDeClasses.csproj", "{BB1EB52A-6DB1-4D4D-8A60-58F80C8F1B21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "43-Interfaces\Interfaces.csproj", "{C362D1E4-CC80-4CE5-936C-2E18A0B190DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{BB1EB52A-6DB1-4D4D-8A60-58F80C8F1B21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB1EB52A-6DB1-4D4D-8A60-58F80C8F1B21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB1EB52A-6DB1-4D4D-8A60-58F80C8F1B21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C362D1E4-CC80-4CE5-936C-2E18A0B190DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C362D1E4-CC80-4CE5-936C-2E18A0B190DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C362D1E4-CC80-4CE5-936C-2E18A0B190DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C362D1E4-CC80-4CE5-936C-2E18A0B190DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
